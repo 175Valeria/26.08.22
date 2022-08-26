@@ -8,3 +8,5 @@ Classwork on seminar **GB 3**
 * раз
 * два
 * три
+
+## Текст
